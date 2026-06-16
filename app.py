@@ -2,8 +2,9 @@ import streamlit as st
 import numpy as np
 import pickle
 import os
-from keras.models import load_model
-from keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.models import load_model
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="NextWord · LSTM Predictor",
