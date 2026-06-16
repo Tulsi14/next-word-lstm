@@ -4,7 +4,6 @@ import pickle
 import os
 from keras.models import load_model
 from keras.preprocessing.sequence import pad_sequences
-
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="NextWord · LSTM Predictor",
