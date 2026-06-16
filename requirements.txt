@@ -1,0 +1,13 @@
+tensorflow==2.15.0
+pandas
+numpy
+scikit-learn
+tensorboard==2.15.0
+matplotlib
+seaborn
+streamlit
+scikeras
+nltk
+keras
+tensorflow-cpu==2.13.0
+tensorflow
