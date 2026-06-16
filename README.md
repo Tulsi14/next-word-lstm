@@ -11,8 +11,7 @@ A deep learning web app that predicts the next word in a sentence using a Long S
 
 ## 📸 Demo
 
-> Type any phrase → click **Predict Next Word** → see the model's prediction highlighted inline.
-
+> Type any phrase → https://next-word-lstm-jew8pbbssbpnfr9dhr2jce.streamlit.app/ **Predict Next Word** → see the model's prediction highlighted inline.
 **Example:**
 ```
 Input:  "To be or not to"
